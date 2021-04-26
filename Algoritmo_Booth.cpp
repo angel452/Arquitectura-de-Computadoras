@@ -1,6 +1,12 @@
 ﻿#include <iostream>
 #include <bitset>
 
+/*
+Cases:
+Para cambiar el tamaño de bits: linea 12
+Ingresar el multiplicando y multiplicador en el main: linea 196 - 197
+*/
+
 using namespace std;
 
 #define longitud_bits 4  //Cantidad de bits
